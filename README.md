@@ -1,5 +1,7 @@
 # Twitter Homepage Clone
 
+- ![mockup](twitterclone.png)
+
 This project is a clone of the Twitter homepage. It aims to replicate the look and feel of Twitter's landing page as closely as possible. The project uses Tailwind CSS for styling to ensure a responsive and modern design.
 
 ## Demo
